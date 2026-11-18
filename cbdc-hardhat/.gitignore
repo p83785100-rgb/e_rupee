@@ -1,0 +1,8 @@
+node_modules
+coverage
+artifacts
+cache
+
+# Environment — keep example, ignore real secrets
+.env
+!.env.example
